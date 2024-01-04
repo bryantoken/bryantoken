@@ -2,13 +2,7 @@
 
 <div style="display: flex; flex-direction: row;">
   <div style="background-color: #f1f1f1; padding: 10px;">
-
-
   </div>
-  <div style="background-color: #e9e9e9; padding: 10px;">
-![Top Langs]()
-  </div>
-  
 </div>
 
 <div style="display: flex;">
@@ -37,12 +31,12 @@
 </div>
 &nbsp;
 <a href="#">
-  <img align="right" src="https://komarev.com/ghpvc/?username=13dev&style=flat-square" height="25" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=bryantoken&style=flat-square" height="25" />
 </a>
 
 
 
-<a target="_blank" href="https://13dev.pt">
+<!--<a target="_blank" href="https://13dev.pt">
   <img align="right" src="globe(1).svg" height="25" width="25"/>
 </a>
 <a target="_blank" href="https://linkedin.com/in/leo-oliveira13">
@@ -52,27 +46,35 @@
 <a target="_blank" href="https://gitlab.com/13dev">
   <img align="right" src="gitlab(1).svg" height="25" width="25" />
 </a>
-
+-->
 ---
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=bryantoken&show_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=graywhite" width="440"/>
+<div style="display:flex; flex-direction:column">
+  <div>
+    <div>
+  <img src="https://github-readme-stats.vercel.app/api?username=bryantoken&show_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=graywhite" width="500" height="200"/>
+ 
 </div>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryantoken&hide_progress=true" width="313" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryantoken&hide_progress=true" width="500" height="200" />
 </div>
-
+  </div>
+  <div>
 🔭 Procurando novas tecnologias e projetos<br>
 🌱 Em busca de aprender<br>
-🤔 Pensando seriamente em estudar design ...<br>
+🤔 Pensando seriamente em estudar design<br>
 
 ### 📫Contate-me
 <ul>
   <li>
     Email: bryanzborges1@gmail.com
-    
   </li>
   <li>
 Linkedin: https://www.linkedin.com/in/bryanzucoborges/
   </li>
 </ul>
+  </div>
+
+
+</div>
+
 
