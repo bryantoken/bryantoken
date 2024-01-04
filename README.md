@@ -7,15 +7,23 @@
 
   </div>
   <div style="background-color: #e9e9e9; padding: 10px;">
-    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryantoken&hide_progress=true)
-    
   </div>
   
 </div>
 
-🔭 Projeto de TCC em produção ...<br>
-🌱 Aprendendo React.Js ...<br>
+🔭 Procurando novas tecnologias e projetos<br>
+🌱 Em busca de aprender<br>
 🤔 Pensando seriamente em estudar design ...<br>
-📫 Meus meios de contato: @bryanzuc.co ...<br>
+
+### 📫Contate-me
+<ul>
+  <li>
+    Email: bryanzborges1@gmail.com
+    
+  </li>
+  <li>
+Linkedin: https://www.linkedin.com/in/bryanzucoborges/
+  </li>
+</ul>
 
