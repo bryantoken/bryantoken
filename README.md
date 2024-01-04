@@ -23,17 +23,17 @@
   <img src="https://img.shields.io/badge/PYTHON-%20?style=flat-square&logo=python&logoColor=white&color=130342" height="16"/>
   <img src="https://img.shields.io/badge/SQL-%20?style=flat-square&logo=mysql&logoColor=white&color=01004d" height="16"/>
   <h6>Frameworks:</h6>
-  <img src="https://img.shields.io/badge/LARAVEL-%20?style=flat-square&logo=laravel&logoColor=white&color=811100" height="16" />
-  <img src="https://img.shields.io/badge/LUMEN-%20?style=flat-square&logo=lumen&logoColor=white&color=6b0e0d" height="16" />
+<!--   <img src="https://img.shields.io/badge/LARAVEL-%20?style=flat-square&logo=laravel&logoColor=white&color=811100" height="16" /> -->
+<!--   <img src="https://img.shields.io/badge/LUMEN-%20?style=flat-square&logo=lumen&logoColor=white&color=6b0e0d" height="16" /> -->
   <img src="https://img.shields.io/badge/VUE.JS-%20?style=flat-square&logo=vue.js&logoColor=white&color=550b1a" height="16" />
   <img src="https://img.shields.io/badge/BOOTSTRAP-%20?style=flat-square&logo=bootstrap&logoColor=white&color=3d0829" height="16" />
-  <img src="https://img.shields.io/badge/BULMA-%20?style=flat-square&logo=bulma&logoColor=white&color=230538" height="16" />
+<!--   <img src="https://img.shields.io/badge/BULMA-%20?style=flat-square&logo=bulma&logoColor=white&color=230538" height="16" /> -->
   <img src="https://img.shields.io/badge/TAILWIND-%20?style=flat-square&logo=Tailwind%20CSS&logoColor=white&color=01004d" height="16" />
   
   <h6>Learning:</h6>
   <!--<img height="16" src="https://img.shields.io/badge/ELIXIR-%20?style=flat-square&logo=elixir&logoColor=white&color=811100" />-->
   <img height="16" src="https://img.shields.io/badge/RUST-%20?style=flat-square&logo=rust&logoColor=white&color=811200" />
-
+<img height="16" src="https://img.shields.io/badge/RUBY-%20?style=flat-square&logo=rust&logoColor=white&color=811200" />
 </div>
 &nbsp;
 <a href="#">
