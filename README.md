@@ -54,10 +54,11 @@
 </a>
 
 ---
-<div align="center">
-   
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=bryantoken&show_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=graywhite" width="440"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryantoken&hide_progress=true" width="313" />
+</div>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryantoken&hide_progress=true" width="313" />
 </div>
 
 🔭 Procurando novas tecnologias e projetos<br>
