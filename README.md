@@ -19,7 +19,7 @@
   <h6>Frameworks:</h6>
 <!--   <img src="https://img.shields.io/badge/LARAVEL-%20?style=flat-square&logo=laravel&logoColor=white&color=811100" height="16" /> -->
 <!--   <img src="https://img.shields.io/badge/LUMEN-%20?style=flat-square&logo=lumen&logoColor=white&color=6b0e0d" height="16" /> -->
-  <img src="https://img.shields.io/badge/VUE.JS-%20?style=flat-square&logo=vue.js&logoColor=white&color=550b1a" height="16" />
+<!--   <img src="https://img.shields.io/badge/VUE.JS-%20?style=flat-square&logo=vue.js&logoColor=white&color=550b1a" height="16" /> -->
   <img src="https://img.shields.io/badge/BOOTSTRAP-%20?style=flat-square&logo=bootstrap&logoColor=white&color=3d0829" height="16" />
 <!--   <img src="https://img.shields.io/badge/BULMA-%20?style=flat-square&logo=bulma&logoColor=white&color=230538" height="16" /> -->
   <img src="https://img.shields.io/badge/TAILWIND-%20?style=flat-square&logo=Tailwind%20CSS&logoColor=white&color=01004d" height="16" />
