@@ -45,7 +45,8 @@ BI Analyst na **Golden Investimentos** — construindo pipelines de dados financ
 ### 🚀 No momento
 
 - 🦀 Construindo o **Split**, um sistema de gestão de comissões em Rust + Axum + Next.js
-- 🤖 Refinando o **Golem Bot**, meu bot de trading cripto multi-timeframe
+- 🤖 Refinando o **Hydra Trader Bot**, meu bot de trading cripto multi-timeframe
+- 📊 Construindo o **Prisma**, um sistema dual de BI e CRM em NodeJS 
 - 📈 Pipelines de DRE, comissionamento e dashboards em Power BI
 - 🌱 Estudando sempre — finanças quantitativas, sistemas distribuídos, design
 
