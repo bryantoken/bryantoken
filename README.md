@@ -33,11 +33,12 @@ BI Analyst na **Golden Investimentos** — construindo pipelines de dados financ
 
 ---
 
-### 📊 Stats
+### 🔥 Streak
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=bryantoken&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=10b981&text_color=c9d1d9" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryantoken&layout=compact&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=c9d1d9" height="180" />
+  <p>
+  <img src="https://streak-stats.demolab.com/?user=bryantoken&hide_border=true&background=0d1117&stroke=10b981&ring=10b981&fire=34d399&currStreakNum=c9d1d9&sideNums=10b981&currStreakLabel=10b981&sideLabels=c9d1d9&dates=c9d1d9&date_format=j%20M%5B%20Y%5D" height="180" />
+</p>
 </div>
 
 ---
