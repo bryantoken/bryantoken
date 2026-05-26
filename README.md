@@ -1,78 +1,57 @@
-## Fala pessoal! Sou Bryan  👋
+## Fala, pessoal! Sou o Bryan &nbsp; 👋
 
-<div style="display: flex; flex-direction: row;">
-  <div style="background-color: #f1f1f1; padding: 10px;">
-  </div>
-</div>
+> *Crypto, Ruby & Python. I also like NodeJS, I admit it.*
 
-<div style="display: flex;">
-  <h6>Languages:</h6>
-  <img src="https://img.shields.io/badge/HTML-%20?style=flat-square&logo=html5&logoColor=white&color=700f0a" height="16" />
-  <img src="https://img.shields.io/badge/C++-%20?style=flat-square&logo=c%2B%2B&logoColor=white&color=5f0d14" height="16" />
-  <img src="https://img.shields.io/badge/CSS3-%20?style=flat-square&logo=css3&logoColor=white&color=4e0b1e" height="16" />
-  <img src="https://img.shields.io/badge/JAVA-%20?style=flat-square&logo=java&logoColor=white&color=3e0928" height="16" />
-  <img src="https://img.shields.io/badge/SASS-%20?style=flat-square&logo=sass&logoColor=white&color=2d0732" height="16" />
-  <img src="https://img.shields.io/badge/PYTHON-%20?style=flat-square&logo=python&logoColor=white&color=130342" height="16"/>
-  <img src="https://img.shields.io/badge/SQL-%20?style=flat-square&logo=mysql&logoColor=white&color=01004d" height="16"/>
-  <h6>Frameworks:</h6>
-<!--   <img src="https://img.shields.io/badge/LARAVEL-%20?style=flat-square&logo=laravel&logoColor=white&color=811100" height="16" /> -->
-<!--   <img src="https://img.shields.io/badge/LUMEN-%20?style=flat-square&logo=lumen&logoColor=white&color=6b0e0d" height="16" /> -->
-<!--   <img src="https://img.shields.io/badge/VUE.JS-%20?style=flat-square&logo=vue.js&logoColor=white&color=550b1a" height="16" /> -->
-  <img src="https://img.shields.io/badge/BOOTSTRAP-%20?style=flat-square&logo=bootstrap&logoColor=white&color=3d0829" height="16" />
-<!--   <img src="https://img.shields.io/badge/BULMA-%20?style=flat-square&logo=bulma&logoColor=white&color=230538" height="16" /> -->
-  <img src="https://img.shields.io/badge/REACT-%20?style=flat-square&logo=react&logoColor=white&color=01004d" height="16" />
-  
-  <h6>Learning:</h6>
-  <!--<img height="16" src="https://img.shields.io/badge/ELIXIR-%20?style=flat-square&logo=elixir&logoColor=white&color=811100" />-->
-  <img height="16" src="https://img.shields.io/badge/RUST-%20?style=flat-square&logo=rust&logoColor=white&color=811200" />
-<img height="16" src="https://img.shields.io/badge/RUBY-%20?style=flat-square&logo=ruby&logoColor=white&color=811200" />
-</div>
-&nbsp;
+BI Analyst na **Golden Investimentos** — construindo pipelines de dados financeiros em Python/pandas, dashboards em Power BI e sistemas em Rust nas horas que sobram. Baseado em Vila Velha/ES 🇧🇷.
+
 <a href="#">
-  <img align="right" src="https://komarev.com/ghpvc/?username=bryantoken&style=flat-square" height="25" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=bryantoken&style=flat-square&color=10b981&label=visitors" height="20" />
 </a>
 
-
-
-<!--<a target="_blank" href="https://13dev.pt">
-  <img align="right" src="globe(1).svg" height="25" width="25"/>
-</a>
-<a target="_blank" href="https://linkedin.com/in/leo-oliveira13">
-  <img align="right" src="linkedin.svg" height="25" width="25" />
-</a>
-
-<a target="_blank" href="https://gitlab.com/13dev">
-  <img align="right" src="gitlab(1).svg" height="25" width="25" />
-</a>
--->
 ---
-<div style="display:flex; flex-direction:column">
-  <div>
-    <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=bryantoken&show_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=graywhite" width="500" height="200"/>
- 
-</div>
+
+### 🛠️ Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-%20?style=flat-square&logo=python&logoColor=white&color=064e3b" height="20" />
+  <img src="https://img.shields.io/badge/Ruby-%20?style=flat-square&logo=ruby&logoColor=white&color=065f46" height="20" />
+  <img src="https://img.shields.io/badge/Rust-%20?style=flat-square&logo=rust&logoColor=white&color=047857" height="20" />
+  <img src="https://img.shields.io/badge/JavaScript-%20?style=flat-square&logo=javascript&logoColor=white&color=059669" height="20" />
+  <img src="https://img.shields.io/badge/TypeScript-%20?style=flat-square&logo=typescript&logoColor=white&color=10b981" height="20" />
+  <img src="https://img.shields.io/badge/SQL-%20?style=flat-square&logo=postgresql&logoColor=white&color=34d399" height="20" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/React-%20?style=flat-square&logo=react&logoColor=white&color=064e3b" height="20" />
+  <img src="https://img.shields.io/badge/Next.js-%20?style=flat-square&logo=next.js&logoColor=white&color=065f46" height="20" />
+  <img src="https://img.shields.io/badge/Node.js-%20?style=flat-square&logo=node.js&logoColor=white&color=047857" height="20" />
+  <img src="https://img.shields.io/badge/Rails-%20?style=flat-square&logo=ruby-on-rails&logoColor=white&color=059669" height="20" />
+  <img src="https://img.shields.io/badge/Axum-%20?style=flat-square&logo=rust&logoColor=white&color=10b981" height="20" />
+  <img src="https://img.shields.io/badge/pandas-%20?style=flat-square&logo=pandas&logoColor=white&color=34d399" height="20" />
+  <img src="https://img.shields.io/badge/Power_BI-%20?style=flat-square&logo=powerbi&logoColor=black&color=6ee7b7" height="20" />
+</p>
+
+---
+
+### 📊 Stats
+
 <div>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryantoken&hide_progress=true" width="500" height="200" />
-</div>
-  </div>
-  <div>
-🔭 Procurando novas tecnologias e projetos<br>
-🌱 Em busca de aprender<br>
-🤔 Pensando seriamente em estudar design<br>
-
-### 📫Contate-me
-<ul>
-  <li>
-    Email: bryanzborges1@gmail.com
-  </li>
-  <li>
-Linkedin: https://www.linkedin.com/in/bryanzucoborges/
-  </li>
-</ul>
-  </div>
-
-
+  <img src="https://github-readme-stats.vercel.app/api?username=bryantoken&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=10b981&text_color=c9d1d9" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryantoken&layout=compact&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=c9d1d9" height="180" />
 </div>
 
+---
 
+### 🚀 No momento
+
+- 🦀 Construindo o **Split**, um sistema de gestão de comissões em Rust + Axum + Next.js
+- 🤖 Refinando o **Golem Bot**, meu bot de trading cripto multi-timeframe
+- 📈 Pipelines de DRE, comissionamento e dashboards em Power BI
+- 🌱 Estudando sempre — finanças quantitativas, sistemas distribuídos, design
+
+---
+
+### 📫 Contato
+
+- ✉️ **Email:** bryanzborges1@gmail.com
+- 💼 **LinkedIn:** [in/bryanzucoborges](https://linkedin.com/in/bryanzucoborges)
