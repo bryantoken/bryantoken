@@ -1,4 +1,4 @@
-## Fala, pessoal! Sou o Bryan &nbsp; 👋
+## Fala, pessoal! Sou o Bryan &nbsp; 🤙
 
 > *Crypto, Ruby & Python. I also like NodeJS, I admit it.*
 
