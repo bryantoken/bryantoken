@@ -2,7 +2,7 @@
 
 > *Crypto, Ruby & Python. I also like NodeJS, I admit it.*
 
-BI Analyst na **Golden Investimentos** — construindo pipelines de dados financeiros em Python/pandas, dashboards em Power BI e sistemas em Rust nas horas que sobram. Baseado em Vila Velha/ES 🇧🇷.
+BI Analyst na **Golden Investimentos** — construindo pipelines de dados financeiros em Python/pandas, dashboards em Power BI e sistemas em Rust nas horas que sobram. Em Vila Velha/ES 🇧🇷.
 
 <a href="#">
   <img align="right" src="https://komarev.com/ghpvc/?username=bryantoken&style=flat-square&color=10b981&label=visitors" height="20" />
